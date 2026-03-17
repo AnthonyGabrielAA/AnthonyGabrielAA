@@ -66,12 +66,19 @@ Visão completa do sistema (hardware + software)
 ## 🚀 PROJETOS
 
 ```bash
-bucket-sort-visualizer   → estudo de algoritmos e desempenho
-node-api-express         → prática de backend
-ml-integration-project   → primeiros passos com ML
-expo-mobile-app          → aprendizado mobile + API
+Projetos-Universitarios  → monorepo com atividades e trabalhos
+Oraculo-IA               → integração com a API do Google Gemini
+Sistema-Biblioteca       → gerenciamento de acervo em TypeScript
+Atividade-IA             → web app de classificação com ML
+Trabalho-Laboratorio     → desafios de lógica e programação
 ```
----
+### 🔗 Acesso Direto
+
+* 📁 **[Projetos Universitários (Repositório Central)](https://github.com/AnthonyGabrielAA/Projetos-Universitarios)**
+  * ↳ 🐍 [Oráculo IA](https://github.com/AnthonyGabrielAA/Projetos-Universitarios/tree/main/Oraculo-IA)
+  * ↳ 📚 [Sistema Biblioteca](https://github.com/AnthonyGabrielAA/Projetos-Universitarios/tree/main/Sistema-Biblioteca)
+  * ↳ 🤖 [Atividade IA](https://github.com/AnthonyGabrielAA/Projetos-Universitarios/tree/main/Atividade-IA)
+  * ↳ 💻 [Trabalho Laboratório](https://github.com/AnthonyGabrielAA/Projetos-Universitarios/tree/main/Trabalho-Laboratorio)
 
 ```bash
 > missão
