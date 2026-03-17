@@ -71,19 +71,13 @@ node-api-express         → prática de backend
 ml-integration-project   → primeiros passos com ML
 expo-mobile-app          → aprendizado mobile + API
 ```
-
----
-
-## 🌐 CONTATO
-
-```bash
-email     → agabriel.dev@gmail.com
-linkedin  → linkedin.com/in/anthony-gabriel-792484287
-```
-
 ---
 
 ```bash
 > missão
 conseguir minha primeira oportunidade como desenvolvedor 🚀
 ```
+## 🌐 Contato
+
+> email     → [agabriel.dev@gmail.com](mailto:agabriel.dev@gmail.com)  
+> linkedin  → [linkedin.com/in/anthony-gabriel-792484287](https://linkedin.com/in/anthony-gabriel-792484287)
